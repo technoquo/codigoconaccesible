@@ -14,6 +14,7 @@
 
     <meta property="og:description"
         content="Brindo soluciones de la tecnología web y accesibilidad en la información para para todos.">
+    <meta property="og:title" content="Código accesible con Leo" />
     <meta property="og:image" content="https://codigoaccesibleconleo.com/img/leo.jpeg" />
     <meta property="og:image:width" content="654" />
     <meta property="og:image:height" content="445" />
