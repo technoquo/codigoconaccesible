@@ -47,8 +47,7 @@ defineProps({
       class="
         group-hover:text-light-tail-500       
         text-accent text-sm
-        mb-3
-        cursor-pointer
+        mb-3       
       "
       >{{ project.project_url}}</span
     >
