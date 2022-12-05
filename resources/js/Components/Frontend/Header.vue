@@ -33,7 +33,7 @@ onMounted(() => {
       bis_skin_checked="1"
     >
       <a href="https://codigoaccesibleconleo.com/" class="flex items-center">
-        <img src="/img/logocodigoaccesibleconleo.png" alt="Código Accesible con Leo" class=" max-h-12">
+        <img src="/img/logocodigoaccesibleconleo.png" alt="Código Accesible con Leo" class="max-h-12">
         <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white ml-3">Código Accesible con Leo</span>
          
       </a>
