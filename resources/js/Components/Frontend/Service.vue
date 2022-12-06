@@ -126,9 +126,9 @@
               />
             </svg>
           </div>
-          <h4 class="text-xl font-medium mb-2">SEO</h4>
+          <h4 class="text-xl font-medium mb-2">Consultoría de Accesibildad Web</h4>
           <p>
-            Consiste en una serie de técnicas, disciplinas y estrategias de optimización que se implementan en las páginas de un sitio web o blog para mejorar su posicionamiento en los buscadores.
+            Brindo soluciones de la tecnología y accesibilidad en la comunicación e información para las personas sordas y para todos, creando cosas que llaman la atención y tienen sentido.
           </p>
         </div>
       </div>
