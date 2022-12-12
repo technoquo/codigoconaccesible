@@ -119,7 +119,7 @@
             </div>
           </div>
         </div>
-        <div class="flex flex-1 justify-end items-center h-full mt-8 md:mt-0">
+        <div class="flex flex-1 justify-end items-center h-full mt-8 md:mt-0 static">
           <img class="rounded-lg w-9/12" src="/img/leo.jpeg" alt="Hero" />
         </div>
       </div>
